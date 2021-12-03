@@ -1,0 +1,57 @@
+body {
+    background-color: #edd9d8;
+  }
+  h1 {
+    color: #56ce8c;
+    text-align: center;
+  }
+  h2 {
+    color: #3e78e4;
+    font-family: 'Courier New', Courier, monospace;
+    font:100;
+  }
+  h3 {
+    color: #dd6d6d;
+    border: 4px solid rgb(113, 194, 194);
+  }
+  p {
+    color: #000000;
+    border: 2px solid #dd6db8;
+    margin: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font:300;
+  }
+  /* unvisited link */
+a:link {
+  color: blue;
+}
+/* visited link */
+a:visited {
+  color: purple;
+}
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+/* selected link */
+a:active {
+  color: red;
+}
+div p {
+  background-color: beige;
+  height: 100px;
+  width: 40%;
+}
+.fruits {
+  background-color: #edd9d8;
+  color: rgb(83, 117, 219);
+  border: 4px solid rgb(128, 0, 255);
+  margin: 15px;
+  padding: 15px;
+}
+#header {
+  background-color: #fc6060;
+  color:rgb(155, 238, 155);
+  padding: 20px;
+  text-align: left;
+}
